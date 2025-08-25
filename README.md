@@ -116,16 +116,16 @@ smart-queue-management/
 ## 📸 Screenshots
 
 ### 🔐 Authentication Page
-![Login Page](./assets/screenshots/login.jpg)
+![Login Page](./src/assets/screenshots/login.jpg)
 
 ### 📝 Registration Page
-![Register Page](./assets/screenshots/register.jpg)
+![Register Page](./src/assets/screenshots/register.jpg)
 
 ### 👥 Customer Queue Dashboard
-![Customer Dashboard](./assets/screenshots/customer_dashboard.jpg)
+![Customer Dashboard](./src/assets/screenshots/customer_dashboard.jpg)
 
 ### 🧑‍💼 Admin Queue Dashboard
-![Admin Dashboard](./assets/screenshots/admin_dashboard.jpg)
+![Admin Dashboard](./src/assets/screenshots/admin_dashboard.jpg)
 
 ---
 
